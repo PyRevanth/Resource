@@ -33,3 +33,12 @@
 
 > [javapoint](https://www.javatpoint.com/spring-boot-interview-questions)
 
+### SQL
+> 
+- [https://www.softwaretestinghelp.com/50-popular-sql-interview-questions-for-testers/](https://www.softwaretestinghelp.com/50-popular-sql-interview-questions-for-testers/)
+- [https://www.interviewbit.com/sql-interview-questions/](https://www.interviewbit.com/sql-interview-questions/)
+- [https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html](https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
+
+### Agile
+> - [https://www.softwaretestinghelp.com/agile-interview-questions/](https://www.softwaretestinghelp.com/agile-interview-questions/)
+
