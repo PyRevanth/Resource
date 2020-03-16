@@ -27,6 +27,7 @@
 > - [CodingBat](https://github.com/ozelentok/CodingBat-Solutions/blob/master/Java)
 
 ## Spring
+> [https://dzone.com/articles/spring-di-patterns-the-good-the-bad-and-the-ugly](https://dzone.com/articles/spring-di-patterns-the-good-the-bad-and-the-ugly)
 > [java67](https://www.java67.com/2018/06/top-15-spring-boot-interview-questions-answers-java-jee-programmers.html)
 
 > [edureka](https://www.edureka.co/blog/interview-questions/spring-boot-interview-questions/)
