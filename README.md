@@ -21,6 +21,8 @@
 ### Multi Threading
 
 > - [Busy Spinning](https://j2eereference.com/busy-spinning-mutithreading/) 
+> -[https://javarevisited.blogspot.com/2015/07/how-to-use-wait-notify-and-notifyall-in.html](https://javarevisited.blogspot.com/2015/07/how-to-use-wait-notify-and-notifyall-in.html)
+> - [https://javarevisited.blogspot.com/2011/12/difference-between-wait-sleep-yield.html](https://javarevisited.blogspot.com/2011/12/difference-between-wait-sleep-yield.html) 
 
 ### Strings and Array coding problems
 
@@ -35,10 +37,9 @@
 > [javapoint](https://www.javatpoint.com/spring-boot-interview-questions)
 
 ### SQL
-> 
-- [https://www.softwaretestinghelp.com/50-popular-sql-interview-questions-for-testers/](https://www.softwaretestinghelp.com/50-popular-sql-interview-questions-for-testers/)
-- [https://www.interviewbit.com/sql-interview-questions/](https://www.interviewbit.com/sql-interview-questions/)
-- [https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html](https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
+> - [https://www.softwaretestinghelp.com/50-popular-sql-interview-questions-for-testers/](https://www.softwaretestinghelp.com/50-popular-sql-interview-questions-for-testers/)
+  - [https://www.interviewbit.com/sql-interview-questions/](https://www.interviewbit.com/sql-interview-questions/)
+  - [https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html(https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 
 ### Agile
 > - [https://www.softwaretestinghelp.com/agile-interview-questions/](https://www.softwaretestinghelp.com/agile-interview-questions/)
