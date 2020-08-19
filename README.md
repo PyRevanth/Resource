@@ -2,6 +2,7 @@
 > - [https://www.youtube.com/playlist?list=UUgRi_e9VxNXIibMBODAbNHw](https://www.youtube.com/playlist?list=UUgRi_e9VxNXIibMBODAbNHw)
 > - [https://www.javatpoint.com/corejava-interview-questions](https://www.javatpoint.com/corejava-interview-questions)
 > - [https://www.journaldev.com/7153/core-java-tutorial](https://www.journaldev.com/7153/core-java-tutorial)
+> - [https://www.softwaretestinghelp.com/java-8-interview-questions/](https://www.softwaretestinghelp.com/java-8-interview-questions/)
 
 # Resource
 > - [Javatpoint.com](javatpoint.com)
